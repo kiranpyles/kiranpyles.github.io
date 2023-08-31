@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a junior at Harvard College. I study Computer Science on the Honors track while pursuing additional coursework in Applied Mathematics and Neuroscience.
+I'm currently a junior at Harvard College. I study Computer Science on the Honors track while pursuing additional coursework in Applied Mathematics, Economics and Neuroscience.
 
 Recently, I've been excited about quantitative finance, entrepreneurship, and cool new computing opportunities with AI.
 
