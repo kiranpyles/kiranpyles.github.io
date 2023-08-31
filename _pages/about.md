@@ -15,7 +15,7 @@ Recently, I've been excited about quantitative finance, entrepreneurship, and co
 I love startups, fitness, learning new languages, and sharing that excitement with others.
 
 **Currently**
-======
+------
 ⚕️ Software engineering intern at basys.ai!
 
 🤝 Vice President of Harvard ColorStack.
@@ -25,15 +25,15 @@ I love startups, fitness, learning new languages, and sharing that excitement wi
 🚀 Direct outreach for Momentum AI!
 
 **Recently**
-======
+------
 🛋️ Co-op at Wayfair!
 
 ☀️ Intern at Yale Entrepreneurship-backed Goalden Hour.
 
-🏙️ Co-founder of Boston Black Owned Business Pop-up, notably spearheading venture funding, and strategic and technical consulting.
+🏙️ Co-founder of Boston Black Owned Business Pop-up, spearheading venture funding and both strategic and technical pro bono consulting.
 
 **Less Recently**
-======
+------
 🌊 Co-founder of SaaS startup Flow.
 
 **Let's connect!**
