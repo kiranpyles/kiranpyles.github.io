@@ -20,7 +20,7 @@ I love startups, fitness, learning new languages, and sharing that excitement wi
 
 🤝 Vice President of Harvard ColorStack.
 
-💻 Executive Board Director of Harvard Computer Society's social impact branch.
+💻 Executive Board Director for Harvard Computer Society's social impact branch.
 
 🚀 Direct outreach for Momentum AI!
 
