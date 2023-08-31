@@ -17,14 +17,19 @@ I love startups, fitness, learning new languages, and sharing that excitement wi
 **Currently**
 ======
 ⚕️ Software engineering intern at basys.ai!
+
 🤝 Vice President of Harvard ColorStack.
+
 💻 Executive Board Director of Harvard Computer Society's social impact branch.
+
 🚀 Direct outreach for Momentum AI!
 
 **Recently**
 ======
 🛋️ Co-op at Wayfair!
+
 ☀️ Intern at Yale Entrepreneurship-backed Goalden Hour.
+
 🏙️ Co-founder of Boston Black Owned Business Pop-up, notably spearheading venture funding, and strategic and technical consulting.
 
 **Less Recently**
